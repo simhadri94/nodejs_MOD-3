@@ -1,0 +1,6 @@
+#nodejs Module 3
+
+## to execute
+
+npm install
+node data_merge.js {number}  //number you want to give for parallel processing chunks of data eg: 10,50,100,500
